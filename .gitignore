@@ -1,3 +1,4 @@
 /vendor
+!/vendor/laraflock
 /node_modules
 .env

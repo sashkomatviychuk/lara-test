@@ -58,8 +58,8 @@ class UserTableSeeder extends Seeder
     public function run()
     {
         $defaultUser = [
-          'email'      => 'admin@studvel.com',
-          'password'   => 'root',
+          'email'      => 'admin@admin.io',
+          'password'   => '1234',
           'first_name' => '{{first_name}}',
           'last_name'  => '{{last_name}}',
         ];
